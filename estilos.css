@@ -1,0 +1,70 @@
+body{
+    background-color: #7EACB5;
+    text-align: center;
+}
+main{
+    padding: 50px;
+}
+p{
+    text-align:center;
+    
+}
+h1{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 100px;
+    text-align: center;
+    background-color:#c96868;
+    }
+   h2{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 50px;
+    text-align: center;
+    align-content: center;
+    background-color:#fff4ea;
+    border-radius: 25%;
+    pading-top:30px;
+    }
+   
+   h3{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 50px;
+    text-align: center;
+   }
+   h4{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 25px;
+    text-align: center;
+    background-color: #c96868;
+    }
+
+ h5{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 25px;
+    text-align: center;
+    background-color: #fadfa1;
+    }
+a{
+    align-content: center;
+color:#796575;
+text-align: center;
+display:inline-block;
+
+
+}
+a:hover{
+    color:coral;
+}
+   
+footer{
+    background-color: #fadfa1;
+color:#796575
+}
+img{
+    align-items: center;
+}
+ol li {
+    list-style-type: none;
+    display:inline;
+    margin-right: 15px;
+    margin-left: 15px;
+}
